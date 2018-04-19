@@ -31,6 +31,8 @@ This is repo keeps examples with description modern principles, patterns.
     - [An Array of New Gotchas](https://github.com/khusnetdinov/ruby.fundamental/blob/master/gotchas/an_array_of_new_gotchas.rb)
     - [Making a Hash of it](https://github.com/khusnetdinov/ruby.fundamental/blob/master/gotchas/making_a_hash_of_it.rb)
     - [Rescue Me, Throw a Line, I'll Try to Catch It!](https://github.com/khusnetdinov/ruby.fundamental/blob/master/gotchas/rescue_me_throw_a_line_ill_try_to_catch_it.rb)
+    - [to_s vs. to_str](https://github.com/khusnetdinov/ruby.fundamental/blob/master/gotchas/to_s_vs_to_str.rb)  
+  
   - [Meta Programming](#meta-programming)
     - [Dynamic dispatch](https://github.com/khusnetdinov/ruby.fundamental/blob/master/meta_programming/dynamic_dispatch.rb)
     - [Dynamic method](https://github.com/khusnetdinov/ruby.fundamental/blob/master/meta_programming/dynamic_method.rb)
